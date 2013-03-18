@@ -1,0 +1,9 @@
+{
+   //Filetypes that PhpTidy can run on.
+   "filetypes": [".php", ".module", ".inc"],
+
+   //Selected Tidy Type (phptidy, wp)
+   "tidytype": "phptidy",
+
+   "php_loc": "D:\\Xampp\\php\\php.exe"
+}
